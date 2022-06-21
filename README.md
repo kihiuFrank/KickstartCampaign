@@ -1,3 +1,1 @@
-# Lottery-Contract
-
 # KickstartCampaign
