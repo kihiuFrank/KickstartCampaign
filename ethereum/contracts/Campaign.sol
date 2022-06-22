@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: ISC
-pragma solidity >=0.7.0 <0.9.0;
+pragma solidity ^0.8.13;
 
 contract CampaignFactory {
     address[] public deployedCampaigns;
